@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100 Final Project
+Collaborators: Timmy Lauw, James Zhou, Jiaming Zhang
